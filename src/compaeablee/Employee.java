@@ -1,6 +1,6 @@
 package compaeablee;
 
-public class Employee implements Comparable<Employee>{
+public class Employee implements Comparable<Employee> {
     String name;
     Integer rollNo;
 
@@ -11,15 +11,6 @@ public class Employee implements Comparable<Employee>{
     public void setName(String name) {
         this.name = name;
     }
-
-    public Integer getRollNo() {
-        return rollNo;
-    }
-
-    public void setRollNo(Integer rollNo) {
-        this.rollNo = rollNo;
-    }
-
 
 
     @Override
