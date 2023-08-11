@@ -7,7 +7,7 @@ public class JavaNew {
         Thread.sleep(1000);
 
         System.out.println();
-        System.out.println("hello");
+        System.out.println("n n n");
 
     }
 
